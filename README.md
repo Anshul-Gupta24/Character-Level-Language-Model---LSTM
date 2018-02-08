@@ -1,4 +1,4 @@
-## Character-Level-Language-Model---LSTM
+## Character-Level-Language-Model using an LSTM
 
 #### An implementation of a Character Level Language Model in Python using Numpy. For the purpose of understanding, everything including backpropagation has been coded form scratch.
 
