@@ -10,7 +10,7 @@
 
 #### (Input is stored in input.txt)
 
-#### >> python lstm.py
+#### ```>> python lstm.py```
 
 #### Output is 200 character long samples of text every 100 iterations of backpropagation.
 
