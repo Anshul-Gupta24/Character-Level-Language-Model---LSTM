@@ -4,9 +4,9 @@
 
 #### The architecture includes an input layer, hidden layer and output layer.
 
-#### The input is encoded using 1 hot encoding and is passed onto a hidden layer with 100 neurons. The output layer is a probability distribution over the vocabulary and an output character is sampled from this distribution. Backpropagation is carried out every 25 timesteps.
+#### The input is encoded using 1 hot encoding and is passed onto a hidden layer with 100 neurons. The output layer is a probability distribution over the vocabulary and an output character is sampled from this distribution. Backpropagation is carried out every 25 timesteps. </br> </br>
 
-#### Running the code:
+#### Running the code
 
 #### (Input is stored in input.txt)
 
