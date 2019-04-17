@@ -8,7 +8,6 @@
 
 ### Requirements
 * Python 2.7
-* Tensorflow
 * Numpy
 #### </br>
 ### Running the code
