@@ -6,6 +6,12 @@
 
 #### The input is encoded using 1 hot encoding and is passed onto a hidden layer with 100 neurons. The output layer is a probability distribution over the vocabulary and an output character is sampled from this distribution. Backpropagation is carried out every 25 timesteps. </br> </br>
 
+### Requirements
+* Python 2.7
+* Tensorflow
+* Numpy
+#### </br>
+
 ### Running the code
 
 #### (Input is stored in input.txt)
