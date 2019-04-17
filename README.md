@@ -11,7 +11,6 @@
 * Tensorflow
 * Numpy
 #### </br>
-
 ### Running the code
 
 #### (Input is stored in input.txt)
